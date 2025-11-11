@@ -1,0 +1,35 @@
+# Core Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+
+# Google Gemini AI
+google-generativeai==0.3.1
+
+# Data Processing (lightweight)
+numpy==1.26.2
+
+# Database
+sqlalchemy==2.0.23
+aiosqlite==0.19.0
+
+# API clients
+requests==2.31.0
+
+# Security (simplified)
+passlib==1.7.4
+bcrypt==4.1.1
+python-jose==3.3.0
+
+# Utilities
+python-multipart==0.0.6
+
+# Price Services
+pycoingecko==3.2.0
+yfinance==0.2.66
+
+# News Fetching
+feedparser==6.0.10
+httpx==0.25.2
+vaderSentiment==3.3.2
